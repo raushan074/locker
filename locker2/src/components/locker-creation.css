@@ -1,0 +1,38 @@
+.landing{
+    background-image: url("../images/bg-image.png");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.creation{
+    background: #fff;
+    padding: 16px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.creation h2{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: -5px;
+}
+
+.creation input{
+    display: block;
+    width: 344px;
+    height: 48px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+
+.creation button{
+    background-color: #F9650B;
+    width: 344px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,39 @@
+.box2{
+    display: flex;
+    flex-direction: column;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.rows{
+    height: 85px;
+    width: 283px;
+    border: 1px solid #D1D9E0;
+    border-radius: 5px;
+    row-gap: 5px;
+    margin-top: 10px;
+}
+
+.num{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.res{
+    background-color: #E5F0DB;
+}
+
+.opn{
+    background-color: #FEDDC9;
+}
+
+.selected {
+    background-color: #F99100;
+}
+  
